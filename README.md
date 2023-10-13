@@ -4,3 +4,6 @@ Only Read Aloud Content is a Chrome extension for all Chromium web browsers (Chr
 ## Current supported websites:
 - Reddit
 - Old Reddit
+
+## Credits
+- Icons from <a href="https://www.flaticon.com/free-icons/speak" title="speak icons">Speak icons created by yut1655 - Flaticon</a>
