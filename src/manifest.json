@@ -1,9 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Only Read Aloud Content",
-    "version": "0.0.0.1.",
+    "version": "0.0.0.1",
     "description": "Adds aria-hidden attribute to non-content text. Current supported websites: Reddit, Old Reddit.",
-    "permissions": ["activeTab"],
     "content_scripts": [
       {
         "matches": ["*://*.reddit.com/*"],
